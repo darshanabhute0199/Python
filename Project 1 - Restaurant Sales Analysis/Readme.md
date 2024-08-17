@@ -28,9 +28,10 @@ Table : Order_Details
 
 
 ## Entity- Relationship Diagram
+![Restaurant Sales Analysis](https://github.com/user-attachments/assets/399cdb87-eb8c-400c-aced-21d867afbaa1)
 
 
-##Technologies
+## Technologies
 Python
 
 ## Application
